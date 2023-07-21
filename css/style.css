@@ -1,7 +1,7 @@
 .bannerBgImage {
     height: 100vh;
     background: url("../images/christin-hume-mfB1B1s4sMc-unsplash.jpg");
-    background-size: cover;
+    background-size: auto;
     position: relative;
 }
 
@@ -17,7 +17,7 @@ section{
     left: 50%;
     right: 50%;
     transform: translate(-50%,-50%);
-    color: rgb(16, 12, 12);
+    color: white;
 }
 
 .bannerTitle {
