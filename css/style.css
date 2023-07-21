@@ -1,6 +1,6 @@
 .bannerBgImage {
     height: 100vh;
-    background: url(/images/christin-hume-mfB1B1s4sMc-unsplash.jpg);
+    background: url("../images/christin-hume-mfB1B1s4sMc-unsplash.jpg");
     background-size: cover;
     position: relative;
 }
